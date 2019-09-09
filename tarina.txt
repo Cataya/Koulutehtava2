@@ -1,3 +1,7 @@
 Taas pukkaa tarinata linux-käyttöjärjestelmästä.
 
+<<<<<<< Updated upstream
 Linus Tornvaldin kehittämä niinkuin tämä gitkin on 
+=======
+Kukas tämän kehittikään ja mitä yhteistä on linuxilla ja gitillä?
+>>>>>>> Stashed changes
