@@ -1,2 +1,6 @@
 Lisattiin rivi teksia, jota ei ole viela koneella.
+<<<<<<< Updated upstream
 Lisataan uusi rivi viela
+=======
+Paikallisesti uusi rivi tekstia
+>>>>>>> Stashed changes
