@@ -1,2 +1,3 @@
 Taas pukkaa tarinata linux-käyttöjärjestelmästä.
 
+Linus Tornvaldin kehittämä niinkuin tämä gitkin on 
